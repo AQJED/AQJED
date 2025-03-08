@@ -1,9 +1,9 @@
 # Hi there, I'm AQJED 👋
 
 ## 🚀 About Me
-- 🔭 I’m currently working on *Flight Simulator Systems*, focusing on *Host, CGF, and other interface systems* to *Image Generator Middleware development*.
-- 🛠️ I'm also working on *Embedded Systems development*.
-- 👯 I’m looking to collaborate on *Deep learning and Data science projects*.
+- 🔭 I’m currently working on Flight Simulator Systems, focusing on Host, CGF, and other interface systems* to Image Generator **Middleware development**.
+- 🛠️ I'm also working on **Embedded Systems development**.
+- 👯 I’m looking to collaborate on **Deep learning and Data science projects**.
 
 ## 💻 Tech Stack
 - **Programming:** C++, C, Python, Git
