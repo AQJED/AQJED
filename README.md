@@ -1,4 +1,4 @@
-<h1>Hi there, I'm AQJED 👋</h1>
+<h1>Hi there, I'm Adeeb Alqahtani 👋</h1>
 
 <h2>🚀 About Me</h2>
 <ul>
