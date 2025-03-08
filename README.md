@@ -4,7 +4,7 @@
 <ul>
   <li>🔭 I’m currently working on <strong>Flight Simulator Middleware development</strong>.</li>
   <li>🛠️ I'm also working on <strong>Embedded Systems development</strong>.</li>
-  <li>👯 I’m looking to collaborate on <strong>Deep Learning and Data Science projects</strong>.</li>
+  <li>🫱🏻‍🫲🏼 I’m looking to collaborate on <strong>Deep Learning and Data Science projects</strong>.</li>
 </ul>
 
 <h2>💻 Tech Stack</h2>
