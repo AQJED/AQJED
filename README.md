@@ -20,4 +20,4 @@
 
 ## 📫 Contact Me
 - ✉️ Email: adeeb.alqahtani@gmail.com
-- 💼 LinkedIn: [Adeeb Alqahtani](www.linkedin.com/in/adalqahtani)
+- 💼 LinkedIn: [www.linkedin.com/in/adalqahtani](www.linkedin.com/in/adalqahtani)
