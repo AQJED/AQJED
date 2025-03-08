@@ -1,7 +1,7 @@
 # Hi there, I'm AQJED 👋
 
 ## 🚀 About Me
-- 🔭 I’m currently working on Flight Simulator development, focusing on Host, CGF, and other interface systems to Image Generator **Middleware development**.
+- 🔭 I’m currently working on Flight Simulator **Middleware development**.
 - 🛠️ I'm also working on **Embedded Systems development**.
 - 👯 I’m looking to collaborate on **Deep learning and Data science projects**.
 
