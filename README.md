@@ -14,9 +14,9 @@
 - **Image Processing & Pattern Recognition:** MATLAB, NMF, Image Processing, GUI, Pattern Recognition
 
 ## 🌐 My Website
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=github)](https://aqjed.github.io/Portfolio/index.html)
+[![Portfolio](https://aqjed.github.io/Portfolio/)
 
 
 ## 📫 Contact Me
 - ✉️ Email: adeeb.alqahtani@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](https://aqjed.github.io/Portfolio/)
+- 💼 LinkedIn: [Your LinkedIn](www.linkedin.com/in/adalqahtani)
