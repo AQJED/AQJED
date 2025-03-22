@@ -24,7 +24,7 @@
   </li>
   <li>
     <strong><a href="https://github.com/aqjed/Falcon-AI">Falcon-AI</a></strong><br>
-    <img src="https://img.shields.io/github/last-commit/aqjed/falcon-ai-dogfight" alt="Last Commit">
+    <img src="https://img.shields.io/github/last-commit/aqjed/falcon-ai" alt="Last Commit">
     <p>Ongoing RL project training jets to dogfight autonomously using PettingZoo + PyFlyt.</p>
   </li>
 </ul>
